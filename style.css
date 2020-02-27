@@ -1,0 +1,27 @@
+html, body {
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  font-size: 12vh;
+  font-family: arial black;
+}
+.topbar{
+  position: fixed;
+  padding-left: 5vmin;
+}
+p {
+  margin: 0vmin;
+}
+a{
+  color: red;
+}
+.maincontainer{
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  background-image: url(website.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
